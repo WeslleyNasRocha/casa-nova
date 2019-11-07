@@ -126,8 +126,10 @@ class Main extends React.Component {
             </li>
             <li>
               <p>
-                <strong>1 Endereço:</strong> Rua Santos Smaniott, 328, Quinhões
-                - Monte Mor/SP
+                <strong>1 Endereço: </strong>
+                <a target="_blank" href="https://goo.gl/maps/f3ZYZ5eZSFgPuxtP9">
+                  Rua Santos Smaniott, 328, Quinhões - Monte Mor/SP
+                </a>
               </p>
             </li>
           </ul>

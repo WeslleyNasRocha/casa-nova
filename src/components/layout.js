@@ -20,13 +20,7 @@ const Layout = ({ children, location }) => {
 
   return (
     <>
-      <Helmet
-        title="Casa nova"
-        meta={[
-          { name: 'description', content: 'Uma página sobre um casal' },
-          { name: 'keywords', content: 'couple,page' },
-        ]}
-      >
+      <Helmet title="Casa nova">
         <html lang="pt-br" />
       </Helmet>
       {content}
