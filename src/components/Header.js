@@ -5,7 +5,7 @@ const Header = props => (
   <header id="header" style={props.timeout ? { display: 'none' } : {}}>
     <div className="logo">
       <span style={{ fontSize: 30 }}>
-        <i className="icon fa-gamepad"></i>
+        <i className="icon fa-heart"></i>
       </span>
     </div>
     <div className="content">

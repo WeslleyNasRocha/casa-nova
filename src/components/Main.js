@@ -3,8 +3,6 @@ import React from 'react'
 import SectionList from 'react-virtualized-sectionlist'
 
 import historyPic from '../images/history.png'
-import pic02 from '../images/pic02.jpg'
-import pic03 from '../images/pic03.jpg'
 
 import gifts from '../data/gifts.json'
 
@@ -76,14 +74,14 @@ class Main extends React.Component {
             cerveja. Prometemos um ao outro, companheirismo, respeito, amor e
             abraços quentinhos. Mas acima de tudo, prometemos fazer de nossas
             vidas algo leve e apaixonante como a música{' '}
-            <a href="https://www.youtube.com/watch?v=nyaLIgXm5l0">
+            <a target="_blank" href="https://youtu.be/nyaLIgXm5l0?t=31">
               “La Vie En Rose”
             </a>
             .
           </blockquote>
           <blockquote className="him">
             Ou as vezes alegre (e um tanto quanto bebâdo rsrs) como{' '}
-            <a href="https://www.youtube.com/watch?v=S7N6kB11GpE">
+            <a target="_blank" href="https://youtu.be/1edHjgZnnaw">
               "Can't Take My Eyes Off You"
             </a>
             .

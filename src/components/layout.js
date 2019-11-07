@@ -19,31 +19,18 @@ const Layout = ({ children, location }) => {
   }
 
   return (
-    <StaticQuery
-      query={graphql`
-        query SiteTitleQuery {
-          site {
-            siteMetadata {
-              title
-            }
-          }
-        }
-      `}
-      render={data => (
-        <>
-          <Helmet
-            title={data.site.siteMetadata.title}
-            meta={[
-              { name: 'description', content: 'Sample' },
-              { name: 'keywords', content: 'sample, something' },
-            ]}
-          >
-            <html lang="en" />
-          </Helmet>
-          {content}
-        </>
-      )}
-    />
+    <>
+      <Helmet
+        title="Casa nova"
+        meta={[
+          { name: 'description', content: 'Uma página sobre um casal' },
+          { name: 'keywords', content: 'couple,page' },
+        ]}
+      >
+        <html lang="pt-br" />
+      </Helmet>
+      {content}
+    </>
   )
 }
 
