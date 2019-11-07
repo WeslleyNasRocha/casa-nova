@@ -1,0 +1,131 @@
+[
+  {
+    "title": "Cozinha",
+    "data": [
+      "Abridor de latas",
+      "Abridor de garrafas",
+      "Açucareiro",
+      "Assadeira",
+      "Avental",
+      "Bandejas",
+      "Batedor de ovos",
+      "Chaleira",
+      "Coador de café",
+      "Colher de sorvete",
+      "Colheres de silicone",
+      "Colheres de pau",
+      "Concha para molhos",
+      "Copo medidor",
+      "Cortador de pizza",
+      "Descanso de panela",
+      "Descascador de legumes",
+      "Escorredor de arroz",
+      "Escorredor de macarrão",
+      "Escumadeira",
+      "Espremedor de alho",
+      "Frigideira",
+      "Lixeira para pia",
+      "Luva térmica",
+      "Jogo de panelas",
+      "Jogo de copos",
+      "Jogo de talheres",
+      "Jogo de xícaras",
+      "Pegador de massas",
+      "Pegador de saladas",
+      "Petisqueira",
+      "Pincel culinário",
+      "Potes",
+      "Pratos",
+      "Pratos para sobremesa",
+      "Porta-guardanapos",
+      "Porta-temperos",
+      "Ralador de queijos",
+      "Rodo para pia",
+      "Rolo de abrir massas",
+      "Saladeira",
+      "Saleiro ",
+      "Tesoura de cozinha"
+    ]
+  },
+  {
+    "title": "Quarto",
+    "data": [
+      "Abajur",
+      "Almofadas",
+      "Cabides",
+      "Cobertor",
+      "Jogo de cama",
+      "Lençol",
+      "Protetor de colchão",
+      "Protetor de travesseiro",
+      "Roupões",
+      "Sapateira",
+      "Travesseiros"
+    ]
+  },
+  {
+    "title": "Banheiro",
+    "data": [
+      "Capacho",
+      "Escova para vaso sanitário",
+      "Lixeira",
+      "Porta-escova de dentes",
+      "Porta-sabonete",
+      "Tapete antiaderente para box",
+      "Toalha de banho",
+      "Toalha de mãos",
+      "Toalha de rosto"
+    ]
+  },
+  {
+    "title": "Área de serviço",
+    "data": [
+      "Baldes de plástico",
+      "Cesto para prendedores",
+      "Cesto para roupas sujas",
+      "Dosador para sabão em pó",
+      "Espanador de pó",
+      "Luvas de borracha",
+      "Panos de chão",
+      "Porta-sabão",
+      "Pregadores de roupa",
+      "Protetor para tábua de passar",
+      "Protetor para ferro de passar roupa",
+      "Rodo",
+      "Tábua de passar roupa",
+      "Vassoura"
+    ]
+  },
+  {
+    "title": "Bar",
+    "data": [
+      "Balde e pinça de gelo",
+      "Copos de cerveja",
+      "Copos de whisky",
+      "Copos de vodka",
+      "Coqueteleira",
+      "Petisqueira",
+      "Porta-canudos",
+      "Saca rolhas",
+      "Taças de vinho",
+      "Taças de champagne",
+      "Tulipas de chopp"
+    ]
+  },
+  {
+    "title": "Ferramentas",
+    "data": [
+      "Adaptadores de tomada",
+      "Alicate",
+      "Caixa de ferramentas",
+      "Chave de fenda",
+      "Chave Phillips",
+      "Extensão",
+      "Fita dupla face",
+      "Parafusos e pregos",
+      "Martelo",
+      "Tesoura",
+      "Trena"
+    ]
+  }
+]
