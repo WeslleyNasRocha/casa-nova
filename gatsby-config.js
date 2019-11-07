@@ -1,16 +1,11 @@
 module.exports = {
-  siteMetadata: {
-    title: "Gatsby Starter - Dimension V2",
-    author: "Hunter Chang",
-    description: "A Gatsby.js V2 Starter based on Dimension by HTML5 UP"
-  },
   plugins: [
     'gatsby-plugin-react-helmet',
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'gatsby-starter-default',
-        short_name: 'starter',
+        name: 'Weslley e Jéssica',
+        short_name: 'WJ',
         start_url: '/',
         background_color: '#663399',
         theme_color: '#663399',
@@ -19,6 +14,6 @@ module.exports = {
       },
     },
     'gatsby-plugin-sass',
-    // 'gatsby-plugin-offline'
+    'gatsby-plugin-offline'
   ],
 }
