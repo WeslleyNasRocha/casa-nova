@@ -195,4 +195,9 @@
 		dd {
 			margin-left: _size(element-margin);
 		}
-	}
+  }
+  
+  li.reserved {
+    text-decoration: line-through;
+    color: #498467;
+  }

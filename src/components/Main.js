@@ -179,7 +179,12 @@ class Main extends React.Component {
               <div class="gift-list-content">
                 <ul>
                   {gift.data.map(item => (
-                    <li key={item}>{item}</li>
+                    <li
+                      className={`${item.reserved && 'reserved'}`}
+                      key={item.title}
+                    >
+                      {item.title}
+                    </li>
                   ))}
                 </ul>
               </div>

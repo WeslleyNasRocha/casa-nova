@@ -2,130 +2,390 @@
   {
     "title": "Cozinha",
     "data": [
-      "Abridor de latas",
-      "Abridor de garrafas",
-      "Açucareiro",
-      "Assadeira",
-      "Avental",
-      "Bandejas",
-      "Batedor de ovos",
-      "Chaleira",
-      "Coador de café",
-      "Colher de sorvete",
-      "Colheres de silicone",
-      "Colheres de pau",
-      "Concha para molhos",
-      "Copo medidor",
-      "Cortador de pizza",
-      "Descanso de panela",
-      "Descascador de legumes",
-      "Escorredor de arroz",
-      "Escorredor de macarrão",
-      "Escumadeira",
-      "Espremedor de alho",
-      "Frigideira",
-      "Lixeira para pia",
-      "Luva térmica",
-      "Jogo de panelas",
-      "Jogo de copos",
-      "Jogo de talheres",
-      "Jogo de xícaras",
-      "Pegador de massas",
-      "Pegador de saladas",
-      "Petisqueira",
-      "Pincel culinário",
-      "Potes",
-      "Pratos",
-      "Pratos para sobremesa",
-      "Porta-guardanapos",
-      "Porta-temperos",
-      "Ralador de queijos",
-      "Rodo para pia",
-      "Rolo de abrir massas",
-      "Saladeira",
-      "Saleiro ",
-      "Tesoura de cozinha"
+      {
+        "reserved": false,
+        "title": "Assadeira"
+      },
+      {
+        "reserved": false,
+        "title": "Avental"
+      },
+      {
+        "reserved": false,
+        "title": "Bandejas"
+      },
+      {
+        "reserved": false,
+        "title": "Batedor de ovos"
+      },
+      {
+        "reserved": false,
+        "title": "Chaleira"
+      },
+      {
+        "reserved": false,
+        "title": "Colheres de silicone"
+      },
+      {
+        "reserved": false,
+        "title": "Colheres de pau"
+      },
+      {
+        "reserved": false,
+        "title": "Concha para molhos"
+      },
+      {
+        "reserved": false,
+        "title": "Cortador de pizza"
+      },
+      {
+        "reserved": false,
+        "title": "Descanso de panela"
+      },
+      {
+        "reserved": false,
+        "title": "Escorredor de arroz"
+      },
+      {
+        "reserved": false,
+        "title": "Escorredor de macarrão"
+      },
+      {
+        "reserved": false,
+        "title": "Escumadeira"
+      },
+      {
+        "reserved": false,
+        "title": "Espremedor de alho"
+      },
+      {
+        "reserved": false,
+        "title": "Frigideira"
+      },
+      {
+        "reserved": false,
+        "title": "Lixeira para pia"
+      },
+      {
+        "reserved": false,
+        "title": "Jogo de panelas"
+      },
+      {
+        "reserved": false,
+        "title": "Jogo de copos"
+      },
+      {
+        "reserved": false,
+        "title": "Jogo de talheres"
+      },
+      {
+        "reserved": false,
+        "title": "Jogo de xícaras"
+      },
+      {
+        "reserved": false,
+        "title": "Pegador de massas"
+      },
+      {
+        "reserved": false,
+        "title": "Pegador de saladas"
+      },
+      {
+        "reserved": false,
+        "title": "Petisqueira"
+      },
+      {
+        "reserved": false,
+        "title": "Potes"
+      },
+      {
+        "reserved": false,
+        "title": "Pratos"
+      },
+      {
+        "reserved": false,
+        "title": "Pratos para sobremesa"
+      },
+      {
+        "reserved": false,
+        "title": "Porta-guardanapos"
+      },
+      {
+        "reserved": false,
+        "title": "Porta-temperos"
+      },
+      {
+        "reserved": false,
+        "title": "Ralador de queijos"
+      },
+      {
+        "reserved": true,
+        "who": "Maria Julia",
+        "title": "Garrafa térmica"
+      },
+      {
+        "reserved": false,
+        "title": "Rolo de abrir massas"
+      },
+      {
+        "reserved": false,
+        "title": "Saladeira"
+      },
+      {
+        "reserved": false,
+        "title": "Saleiro"
+      },
+      {
+        "title": "Tesoura de cozinha",
+        "reserved": false
+      },
+      {
+        "title": "Jogo de mesa",
+        "reserved": true,
+        "who": "Tia Elisa"
+      }
     ]
   },
   {
     "title": "Quarto",
     "data": [
-      "Abajur",
-      "Almofadas",
-      "Cabides",
-      "Cobertor",
-      "Jogo de cama",
-      "Lençol",
-      "Protetor de colchão",
-      "Protetor de travesseiro",
-      "Roupões",
-      "Sapateira",
-      "Travesseiros"
+      {
+        "reserved": false,
+        "title": "Abajur"
+      },
+      {
+        "reserved": false,
+        "title": "Almofadas"
+      },
+      {
+        "reserved": false,
+        "title": "Cobertor"
+      },
+      {
+        "reserved": false,
+        "title": "Jogo de cama"
+      },
+      {
+        "reserved": false,
+        "title": "Lençol"
+      },
+      {
+        "reserved": false,
+        "title": "Protetor de colchão"
+      },
+      {
+        "reserved": false,
+        "title": "Protetor de travesseiro"
+      },
+      {
+        "reserved": false,
+        "title": "Roupões"
+      },
+      {
+        "reserved": false,
+        "title": "Sapateira"
+      },
+      {
+        "reserved": false,
+        "title": "Travesseiros"
+      }
     ]
   },
   {
     "title": "Banheiro",
     "data": [
-      "Capacho",
-      "Escova para vaso sanitário",
-      "Lixeira",
-      "Porta-escova de dentes",
-      "Porta-sabonete",
-      "Tapete antiaderente para box",
-      "Toalha de banho",
-      "Toalha de mãos",
-      "Toalha de rosto"
+      {
+        "title": "Jogo de tapetes",
+        "reserved": true,
+        "who": "Tainá"
+      },
+      {
+        "title": "Porta papel higiênico",
+        "reserved": true,
+        "who": "Tainá"
+      },
+      {
+        "reserved": false,
+        "title": "Capacho"
+      },
+      {
+        "reserved": false,
+        "title": "Escova para vaso sanitário"
+      },
+      {
+        "reserved": false,
+        "title": "Lixeira"
+      },
+      {
+        "reserved": false,
+        "title": "Porta-escova de dentes"
+      },
+      {
+        "reserved": false,
+        "title": "Porta-sabonete"
+      },
+      {
+        "reserved": false,
+        "title": "Tapete antiaderente para box"
+      },
+      {
+        "reserved": true,
+        "who": "Hellen",
+        "title": "Toalha de banho"
+      },
+      {
+        "reserved": true,
+        "who": "Hellen",
+        "title": "Toalha de mãos"
+      },
+      {
+        "reserved": true,
+        "who": "Hellen",
+        "title": "Toalha de rosto"
+      }
     ]
   },
   {
     "title": "Área de serviço",
     "data": [
-      "Baldes de plástico",
-      "Cesto para prendedores",
-      "Cesto para roupas sujas",
-      "Dosador para sabão em pó",
-      "Espanador de pó",
-      "Luvas de borracha",
-      "Panos de chão",
-      "Porta-sabão",
-      "Pregadores de roupa",
-      "Protetor para tábua de passar",
-      "Protetor para ferro de passar roupa",
-      "Rodo",
-      "Tábua de passar roupa",
-      "Vassoura"
+      {
+        "reserved": false,
+        "title": "Baldes de plástico"
+      },
+      {
+        "reserved": false,
+        "title": "Cesto para prendedores"
+      },
+      {
+        "reserved": false,
+        "title": "Cesto para roupas sujas"
+      },
+      {
+        "reserved": false,
+        "title": "Dosador para sabão em pó"
+      },
+      {
+        "reserved": false,
+        "title": "Espanador de pó"
+      },
+      {
+        "reserved": false,
+        "title": "Panos de chão"
+      },
+      {
+        "reserved": false,
+        "title": "Porta-sabão"
+      },
+      {
+        "reserved": false,
+        "title": "Pregadores de roupa"
+      },
+      {
+        "reserved": false,
+        "title": "Protetor para tábua de passar"
+      },
+      {
+        "reserved": false,
+        "title": "Protetor para ferro de passar roupa"
+      },
+      {
+        "reserved": false,
+        "title": "Rodo"
+      },
+      {
+        "reserved": false,
+        "title": "Tábua de passar roupa"
+      }
     ]
   },
   {
     "title": "Bar",
     "data": [
-      "Balde e pinça de gelo",
-      "Copos de cerveja",
-      "Copos de whisky",
-      "Copos de vodka",
-      "Coqueteleira",
-      "Petisqueira",
-      "Porta-canudos",
-      "Saca rolhas",
-      "Taças de vinho",
-      "Taças de champagne",
-      "Tulipas de chopp"
+      {
+        "reserved": false,
+        "title": "Balde e pinça de gelo"
+      },
+      {
+        "reserved": true,
+        "title": "Copos de cerveja"
+      },
+      {
+        "reserved": false,
+        "title": "Copos de whisky"
+      },
+      {
+        "reserved": false,
+        "title": "Copos de vodka"
+      },
+      {
+        "reserved": false,
+        "title": "Coqueteleira"
+      },
+      {
+        "reserved": false,
+        "title": "Petisqueira"
+      },
+      {
+        "reserved": false,
+        "title": "Porta-canudos"
+      },
+      {
+        "reserved": false,
+        "title": "Saca rolhas"
+      },
+      {
+        "reserved": false,
+        "title": "Taças de vinho"
+      },
+      {
+        "reserved": false,
+        "title": "Taças de champagne"
+      },
+      {
+        "reserved": false,
+        "title": "Tulipas de chopp"
+      }
     ]
   },
   {
     "title": "Ferramentas",
     "data": [
-      "Adaptadores de tomada",
-      "Alicate",
-      "Caixa de ferramentas",
-      "Chave de fenda",
-      "Chave Phillips",
-      "Extensão",
-      "Fita dupla face",
-      "Parafusos e pregos",
-      "Martelo",
-      "Tesoura",
-      "Trena"
+      {
+        "reserved": false,
+        "title": "Adaptadores de tomada"
+      },
+      {
+        "reserved": false,
+        "title": "Caixa de ferramentas"
+      },
+      {
+        "reserved": false,
+        "title": "Chave de fenda"
+      },
+      {
+        "reserved": false,
+        "title": "Chave Phillips"
+      },
+      {
+        "reserved": false,
+        "title": "Extensão"
+      },
+      {
+        "reserved": false,
+        "title": "Parafusos e pregos"
+      },
+      {
+        "reserved": false,
+        "title": "Martelo"
+      },
+      {
+        "reserved": false,
+        "title": "Tesoura"
+      },
+      {
+        "reserved": false,
+        "title": "Trena"
+      }
     ]
   }
 ]
