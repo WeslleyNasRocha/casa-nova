@@ -64,7 +64,7 @@
         "title": "Frigideira"
       },
       {
-        "reserved": false,
+        "reserved": true,
         "title": "Lixeira para pia"
       },
       {
@@ -96,7 +96,7 @@
         "title": "Petisqueira"
       },
       {
-        "reserved": false,
+        "reserved": true,
         "title": "Potes"
       },
       {
@@ -230,17 +230,17 @@
         "title": "Tapete antiaderente para box"
       },
       {
-        "reserved": true,
+        "reserved": false,
         "who": "Hellen",
         "title": "Toalha de banho"
       },
       {
-        "reserved": true,
+        "reserved": false,
         "who": "Hellen",
         "title": "Toalha de mãos"
       },
       {
-        "reserved": true,
+        "reserved": false,
         "who": "Hellen",
         "title": "Toalha de rosto"
       }
@@ -290,7 +290,7 @@
         "title": "Protetor para ferro de passar roupa"
       },
       {
-        "reserved": false,
+        "reserved": true,
         "title": "Rodo"
       },
       {
@@ -307,7 +307,7 @@
         "title": "Balde e pinça de gelo"
       },
       {
-        "reserved": true,
+        "reserved": false,
         "title": "Copos de cerveja"
       },
       {
@@ -386,6 +386,31 @@
       {
         "reserved": false,
         "title": "Trena"
+      }
+    ]
+  },
+  {
+    "title": "Presentes caros, mas extremamente necessários",
+    "data": [
+      {
+        "reserved": false,
+        "title": "Máquina de lavar"
+      },
+      {
+        "reserved": false,
+        "title": "Microondas"
+      },
+      {
+        "reserved": false,
+        "title": "Televisão"
+      },
+      {
+        "reserved": false,
+        "title": "Forno elétrico"
+      },
+      {
+        "reserved": false,
+        "title": "Cadeira gamer"
       }
     ]
   }
