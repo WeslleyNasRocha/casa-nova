@@ -69,8 +69,9 @@
         "title": "Lixeira para pia"
       },
       {
-        "reserved": false,
-        "title": "Jogo de panelas"
+        "reserved": true,
+        "title": "Jogo de panelas",
+        "who": "Ana Silvia"
       },
       {
         "reserved": false,
