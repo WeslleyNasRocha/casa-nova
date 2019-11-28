@@ -44,8 +44,9 @@
         "title": "Descanso de panela"
       },
       {
-        "reserved": false,
-        "title": "Escorredor de arroz"
+        "reserved": true,
+        "title": "Escorredor de arroz",
+        "who": "Ivete"
       },
       {
         "reserved": false,
