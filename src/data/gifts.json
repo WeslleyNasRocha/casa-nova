@@ -312,8 +312,9 @@
         "title": "Balde e pinça de gelo"
       },
       {
-        "reserved": false,
-        "title": "Copos de cerveja"
+        "reserved": true,
+        "title": "Copos de cerveja",
+        "who": "Joycinha"
       },
       {
         "reserved": false,
@@ -414,7 +415,7 @@
         "title": "Forno elétrico"
       },
       {
-        "reserved": false,
+        "reserved": true,
         "title": "Cadeira gamer"
       }
     ]
